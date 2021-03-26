@@ -2,7 +2,7 @@ const axios = require('axios');
 const auth_token = require('../../authorization.config.js').token;
 const calc = require('./calculator.js')
 
-const URL = 'https://app-hrsei-api.herokuapp.com/api/fec2/hr-sfo';
+const URL = 'ec2-54-153-12-179.us-west-1.compute.amazonaws.com';
 const reviewsURL = `${URL}/reviews`;
 const metaReviewsURL = `${URL}/reviews/meta`;
 

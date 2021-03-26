@@ -28,7 +28,7 @@ var options = {
     'Authorization': auth_token
   }
 }
-var url = 'https://app-hrsei-api.herokuapp.com/api/fec2/hr-sfo/reviews';
+var url = 'ec2-54-153-12-179.us-west-1.compute.amazonaws.com/reviews';
 
 
 /* ---------------------------------controller module ------------------------*/

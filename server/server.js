@@ -8,7 +8,7 @@ const interactionRoute = require('./routes/interactionRoute.js').interactions;
 
 var app = express()
 port = 3000;
-var path = 'https://app-hrsei-api.herokuapp.com/api/fec2/hr-sfo';
+var path = 'ec2-54-153-12-179.us-west-1.compute.amazonaws.com';
 var axios = require('axios');
 
 
